@@ -153,3 +153,7 @@
 
 [Repositorio - Observatorio del Sistema Nacional de Ciencia, Tecnología, Conocimiento e Innovación](https://observa.minciencia.gob.cl/)\
 *Ministerio de Ciencia.* Bases de datos sobre diversas encuestas relacionadas a innovación, empresas, gasto y personal en I+D, así como Ley I+D, proyectos adjudicados, programas públicos, entre otros.
+
+[Repositorio - Apis-Chile](https://github.com/NachoOFC/Apis-Chile)\
+*Ignacio Pérez.* Listado curado, centralizado y actualizado de APIs públicas de servicios gubernamentales y privados en Chile para desarrolladores.
+
